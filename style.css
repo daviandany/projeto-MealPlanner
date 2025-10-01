@@ -1,0 +1,44 @@
+sc1{
+    margin:300px
+}
+h1{
+    color:orangered;
+    text-align:left;
+    gap:20px;
+    display:inline-block;
+}
+
+h2{
+   display:inline-block;
+   padding-left: 500px;
+   
+}
+
+#receita-prato{
+    display:inline-block;
+    width:500px;
+    border: solid orangered;
+    margin-top:50px;
+    border-radius: 3px;
+
+}
+
+#pao-de-queijo{
+display:inline-block;
+width:450px;
+margin-top:50px;
+border: solid orangered;
+border-radius: 3px;
+height:300px
+}
+
+.below-navbar{
+    display: flex;
+    justify-content: center;
+    gap:40px;
+}
+
+p{
+    display:flex;
+    justify-content: center;
+}
