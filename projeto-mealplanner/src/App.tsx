@@ -16,7 +16,7 @@ function App() {
         
 
         </section>
-
+ 
         
     <section className="sc-2">
         <div className="below-navbar"/>
